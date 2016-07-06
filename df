@@ -1,0 +1,145 @@
+[33mcommit 09593e54ff47ec24aa782433be5a87a87efea141[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Tue Jul 5 19:30:54 2016 -0400
+
+    delete unused files
+
+[33mcommit 5e6c35b58df07d6946bb6fae0f9eb9f891e13a1b[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Tue Jul 5 19:24:34 2016 -0400
+
+    Added readme
+
+[33mcommit ed5a1805fea00fbde32d2dce621abf744e945018[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon Jun 6 00:37:19 2016 -0400
+
+    Final Final Project
+
+[33mcommit e5c3f1aba360d02fc731ebe96a1762e350ef6812[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon Jun 6 00:06:01 2016 -0400
+
+    Finished Project
+
+[33mcommit ab0fd1ec4a06ba104132cb722cc472c85ca2d593[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun Jun 5 22:03:31 2016 -0400
+
+    fixed buttons
+
+[33mcommit f9c7ef9cfca0bd760135cfa62b481f65a6d636f3[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun Jun 5 21:47:02 2016 -0400
+
+    two button controls, menu
+
+[33mcommit e9ebbd2cf982793f86933ae8c32fce07e6e5b92a[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun Jun 5 09:47:34 2016 -0400
+
+    Two players per team, scoreboard functionality
+
+[33mcommit cdf9dd3f1bbd7c0937a6cd1edff78103dbd78d6a[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon May 16 15:55:52 2016 -0400
+
+    fixed 2nd player, added keyboard controls
+
+[33mcommit e68a1f208e759ef64094aba0a5138341db0548a4[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon May 16 15:55:38 2016 -0400
+
+    fixed 2nd player, added keyboard controls
+
+[33mcommit d0877d84bc3414859429929c570ea4ef02ca4030[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun May 15 20:41:05 2016 -0400
+
+    added bugged 2nd player
+    
+    kicking broken
+
+[33mcommit acdf921d67b4e4da373432bcda98940687512eb3[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon May 2 10:00:57 2016 -0400
+
+    Reset on out of bounds
+
+[33mcommit 9fc0f76ced296ab5c41c4c658c93e09e322a486d[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon May 2 09:26:09 2016 -0400
+
+    bug fixes
+
+[33mcommit 1e58a217a66f2f15823c4e96e072c5e422dc2e89[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Thu Apr 28 18:23:15 2016 -0400
+
+    Reset ball + players on goal (for real)
+
+[33mcommit c303e5c1a7c0f7325c8e825be9a6272d71c700ca[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Thu Apr 28 18:21:11 2016 -0400
+
+    Reset players + ball on scoring, deleted assets
+
+[33mcommit f59e81e596e909b6e80b386742013f89faf044d1[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Thu Apr 28 18:11:26 2016 -0400
+
+    Reset players and ball on scoring, deleted assets
+
+[33mcommit d5d67be00de88d3dbf4ca2b2c86964b37820201e[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Wed Apr 27 22:05:54 2016 -0400
+
+    register goals
+
+[33mcommit 6f579c5a9b056c364c039d368305ce90d2891a97[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Wed Apr 27 22:05:21 2016 -0400
+
+    register goals
+
+[33mcommit 95de48ba129433d5e4422309b6428ba07d625a0c[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Wed Apr 27 19:03:57 2016 -0400
+
+    Leg kicking and fixed jumping
+
+[33mcommit eec09c3f93c35de3d9b32dee9bbdcacd7d53317b[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon Apr 25 19:09:55 2016 -0400
+
+    Added ball + fix player hitbox
+
+[33mcommit acec49e9df47a4e7a5861597ecaa469170644ae2[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Mon Apr 25 18:42:39 2016 -0400
+
+    player bobbing and new sprite
+
+[33mcommit ddb0f73fe1f9be402b7c28548c8583461eb18c5b[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun Apr 24 22:36:48 2016 -0400
+
+    Fixed jumping
+
+[33mcommit ea1daf366f0754040ca52efc461b2070d90cf21f[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sun Apr 24 17:31:27 2016 -0400
+
+    Player Jumping + Button
+
+[33mcommit 3b434b06b54a32086a5bf92b605c50699e5497b0[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sat Apr 23 18:42:51 2016 -0400
+
+    first
+
+[33mcommit adfc05cb96e31795aeed9f5497035662f7566af5[m
+Author: alecmanabat <alecmanabat1@gmail.com>
+Date:   Sat Apr 23 18:31:06 2016 -0400
+
+    :lollipop: Added .gitattributes & .gitignore files
